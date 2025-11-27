@@ -2,9 +2,9 @@
 //// Seanpm2001-Web_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Website repositories by @seanpm2001
-//// As of 2025, Friday, November 21st
+//// As of 2025, Wednesday, November 26th
 
-//// Websites (117)
+//// Websites (126)
 https://github.com/seanpm2001/Booty_Website
 https://github.com/seanpm2001/Kotlint_Website
 https://github.com/seanpm2001/WichCraft_Website
@@ -122,10 +122,25 @@ https://github.com/seanpm2001/AZWS_Encryption_Website
 https://github.com/seanpm2001/OpenGov_Website
 https://github.com/seanpm2001/Sbubbway-generator_Website
 https://github.com/seanpm2001/Pen-People_Website
+https://github.com/seanpm2001/Learn-Boomerang
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Boomerang
+https://github.com/seanpm2001/Polyworks-SquareOff_Website
+https://github.com/seanpm2001/PetLand-Software_Website
+https://github.com/seanpm2001/Oh_Hi_MarkDown_Website
+https://github.com/seanpm2001/Learn-Bosque
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Bosque
+https://github.com/seanpm2001/SearchKX_Website
+https://github.com/seanpm2001/Rasple_Website
+https://github.com/seanpm2001/BerryBoot_Website
+https://github.com/seanpm2001/Learn-Cilk
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cilk
+https://github.com/seanpm2001/Fedorable_Website
+https://github.com/seanpm2001/iWill_Website
+https://github.com/seanpm2001/OpenPassport_Website
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001-Web): 117
-//// 117+0=117
+//// Repo count (Seanpm2001-Web): 126
+//// 126+0=126
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -139,15 +154,15 @@ https://github.com/seanpm2001/SeanWallaWalla-Web
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 118
-//// 117+1=118
+//// Total repo count: 127
+//// 126+1=127
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 8 (2025, Saturday, November 22nd at 11:57 pm PST) (created 1 day late)
-//// Line count (including blank lines and compiler line): 154
+//// File version: 9 (2025, Wednesday, November 26th at 09:37 pm PST)
+//// Line count (including blank lines and compiler line): 169
 //// ----------------------------------------------------- \\\\
 
 //// End of file
