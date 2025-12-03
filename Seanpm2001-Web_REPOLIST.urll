@@ -2,9 +2,9 @@
 //// Seanpm2001-Web_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Website repositories by @seanpm2001
-//// As of 2025, Friday, November 28th
+//// As of 2025, Tuesday, December 2nd
 
-//// Websites (132)
+//// Websites (138)
 https://github.com/seanpm2001/Booty_Website
 https://github.com/seanpm2001/Kotlint_Website
 https://github.com/seanpm2001/WichCraft_Website
@@ -143,10 +143,16 @@ https://github.com/seanpm2001/Er_Website
 https://github.com/seanpm2001/AutoPeer_Website
 https://github.com/seanpm2001/WarmWelcome_Website
 https://github.com/seanpm2001/Sugar_Shop_Website
+https://github.com/seanpm2001/HyperSlice_Website
+https://github.com/seanpm2001/3FakeIM_Website
+https://github.com/seanpm2001/WYII_Website
+https://github.com/seanpm2001/Twit-Tac-Toe_Website
+https://github.com/seanpm2001/Mockerfile_Website
+https://github.com/seanpm2001/Techlaration_Website
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001-Web): 132
-//// 132+0=132
+//// Repo count (Seanpm2001-Web): 138
+//// 138+0=138
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -160,15 +166,15 @@ https://github.com/seanpm2001/SeanWallaWalla-Web
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 133
-//// 132+1=133
+//// Total repo count: 140
+//// 138+1=139
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 11 (2025, Saturday, November 28th at 10:38 pm PST)
-//// Line count (including blank lines and compiler line): 175
+//// File version: 12 (2025, Tuesday, December 2nd at 09:40 pm PST)
+//// Line count (including blank lines and compiler line): 181
 //// ----------------------------------------------------- \\\\
 
 //// End of file
