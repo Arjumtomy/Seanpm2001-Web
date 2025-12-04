@@ -2,9 +2,9 @@
 //// Seanpm2001-Web_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Website repositories by @seanpm2001
-//// As of 2025, Tuesday, December 2nd
+//// As of 2025, Wednesday, December 3rd
 
-//// Websites (138)
+//// Websites (141)
 https://github.com/seanpm2001/Booty_Website
 https://github.com/seanpm2001/Kotlint_Website
 https://github.com/seanpm2001/WichCraft_Website
@@ -149,10 +149,13 @@ https://github.com/seanpm2001/WYII_Website
 https://github.com/seanpm2001/Twit-Tac-Toe_Website
 https://github.com/seanpm2001/Mockerfile_Website
 https://github.com/seanpm2001/Techlaration_Website
+https://github.com/seanpm2001/TrueTorrent_Website
+https://github.com/seanpm2001/SlaveWorks_Website
+https://github.com/seanpm2001/SWave_Starter_Website
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001-Web): 138
-//// 138+0=138
+//// Repo count (Seanpm2001-Web): 141
+//// 141+0=141
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -166,15 +169,15 @@ https://github.com/seanpm2001/SeanWallaWalla-Web
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 140
-//// 138+1=139
+//// Total repo count: 142
+//// 141+1=142
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 12 (2025, Tuesday, December 2nd at 09:40 pm PST)
-//// Line count (including blank lines and compiler line): 181
+//// File version: 13 (2025, Wednesday, December 3rd at 10:47 pm PST)
+//// Line count (including blank lines and compiler line): 184
 //// ----------------------------------------------------- \\\\
 
 //// End of file
